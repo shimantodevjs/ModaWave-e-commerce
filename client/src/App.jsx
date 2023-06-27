@@ -1,11 +1,8 @@
 
-
 function App() {
-
-
   return (
-     <div>
-        HEllo world
+     <div className='app'>
+        
      </div>
   )
 }
