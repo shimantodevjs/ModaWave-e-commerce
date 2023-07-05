@@ -32,6 +32,13 @@
             justify-content: space-between;
             column-gap: 20px;
             align-items: center;
+
+            .iconBtn{
+                
+                &:hover {
+                          cursor: pointer;
+                        }
+            }
   
         }
     }
